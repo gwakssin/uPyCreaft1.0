@@ -1,0 +1,3 @@
+class FourCal:
+  pass
+  
